@@ -2,8 +2,6 @@
 
 This is a silly little demo app for an offline-first course.
 
-View demo:
- [wittr](https://ena1.github.io/wittr/) 
 
 You could run the app either using machine dependnecies, or using docker
 
